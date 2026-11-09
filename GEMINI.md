@@ -11,6 +11,7 @@
 - **공식 영웅 목록 (한국어)**: https://kingshotwiki.com/ko/heroes/
 - **공식 건물 목록 (한국어)**: https://kingshotwiki.com/ko/buildings/
 - **로컬 정리 문서**:
+  - **일일 당일 실행 To-Do 체크리스트 (매일 갱신)**: [`context/daily_todo.md`](./context/daily_todo.md)
   - 플레이어 현재 상태 및 히스토리: [`context/player_profile.md`](./context/player_profile.md)
   - 공식 용어집 및 전체 이벤트 카탈로그: [`context/kingshot_terminology_and_events.md`](./context/kingshot_terminology_and_events.md)
   - 자이언트 베어 사냥(곰사냥) 최종 실전 전략: [`context/bear_hunt_strategy.md`](./context/bear_hunt_strategy.md)
