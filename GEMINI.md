@@ -16,7 +16,7 @@
   - 공식 용어집 및 전체 이벤트 카탈로그: [`context/kingshot_terminology_and_events.md`](./context/kingshot_terminology_and_events.md)
   - 자이언트 베어 사냥(곰사냥) 최종 실전 전략: [`context/bear_hunt_strategy.md`](./context/bear_hunt_strategy.md)
   - 최강 영주 & 영웅 룰렛 실전 전략: [`context/hall_of_governors_strategy.md`](./context/hall_of_governors_strategy.md)
-  - 스태미나 소비 & 연맹 상점 운영 전략: [`context/stamina_and_shop_strategy.md`](./context/stamina_and_shop_strategy.md)
+  - 스태미나 소비 & 전체 상점 구매 우선순위 전략: [`context/stamina_and_shop_strategy.md`](./context/stamina_and_shop_strategy.md)
 - **용어 사용 원칙**: 해외 공략(영문)이나 화이트아웃 서바이벌(WOS)식 별칭을 참고하더라도, 최종 보고 및 공략 작성 시에는 반드시 **Kingshot 한국어 위키 기준 공식 명칭**(예: `도시 센터`, `최강 영주`, `지고의 영주`, `최강 왕국`, `성검 쟁탈`, `자이언트 베어 사냥` 등)을 기준으로 표기하고 필요 시 영문명을 병기한다.
 
 ---
