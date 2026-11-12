@@ -72,7 +72,7 @@
 | **기술 발전** | Develop New Tech | 아카데미 연구 및 가속 소모 미션 |
 | **도시 개발** | City Development | 건물 업그레이드 및 건설 가속 미션 |
 | **전투력 상승** | Power Up | 종합 전투력 증가 미션 |
-| **초과 근무** | Working Overtime | 가속권 소모 미션 |
+| **철야 근무** | Working Overtime | 건설·연구 가속권 소모 미션 (`1분 = 1점`, 최종 상자 `1,180점 = 19h 40m`) |
 | **건설 계획** | Plan your City | 건물 전투력/가속 미션 |
 | **전쟁 준비** | War Preparation | 병력 훈련 및 가속 미션 |
 | **완전 무장** | Stand of Arms | 병력/전투 준비 미션 |
