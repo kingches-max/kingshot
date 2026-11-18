@@ -89,7 +89,7 @@
 | **연맹 총동원** | Alliance Mobilization | 연맹 미션 보드 점수전 — `33장 체제` 및 `주먹(+860)` 선별 ([alliance_mobilization_strategy.md](./alliance_mobilization_strategy.md)) |
 | **연맹 챔피언십** | Alliance Championship | 3라인 대표 1부대(`50:20:30` 스냅샷) 토너먼트 — `금사` 수급 ([alliance_championship_strategy.md](./alliance_championship_strategy.md)) |
 | **성검 쟁탈** | Swordland Showdown | 실시간 전장 점령전 — `성검 상점`에서 `보석 도면·매뉴얼` 최우선 매수 |
-| **바이킹의 약탈** | Viking Vengeance | 20웨이브 방어전 — 맞지원 미확보 시 **본성 `1군+병력 50%` 잔류(탈락 방지) + 잔여 `50%` 외부 지원** |
+| **바이킹의 약탈** | Viking Vengeance | 20웨이브 방어전 — **지원 부대는 궁병 `0%`(`50:50:0`, 보·기만 파견)** / 맞지원 미확보 시 **본성에 보·기 절반 + 궁병 `100%` 잔류** / 이벤트 중 치료·진화 금지 / **`10·20웨이브`는 `평원 본부` 공격** |
 | **무역 부흥** | Merchant Empire | 마차 호위·약탈 (`비단`, `금사`, `설계 스케치` 수급) |
 | **연맹 결투** / **삼대 연맹전** | Alliance Brawl / Tri-Alliance | 6일 테마 연맹 대항전 / 3연맹 대형 전장 |
 | **체사레 정벌** / **파이어 드래곤** | Cesares Fury / Flamedragon | 반란군 토벌(일일 횟수만 참여) / 대형 레이드 |
