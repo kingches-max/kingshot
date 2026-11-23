@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local automation tools & private skills (never push to GitHub)
+tools/
+.agents/skills/am-sniper/
